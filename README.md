@@ -14,9 +14,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJvYjF6d3Z3bGN3YXM5N2xqamViZGEzMml6d3gwYXAydXFqbXY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n7aaPXwKO6BO89O/giphy.gif"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
