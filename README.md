@@ -2,14 +2,43 @@
   <img src="https://res.cloudinary.com/dqh1coa3c/image/upload/v1756991404/devProfile/logo-clancig-3_yzrv8l.webp" alt="Logo Clancig" height="120" />
 </div>
 
-<h2 align="left">Hola! 👋 Mi nombre es Damián, soy desarrollador Fullstack.</h2>
+<h2 align="left">Hola! 👋 Mi nombre es Damián, soy Desarrollador Fullstack.</h2>
+
 <h3>
-  Profesional con más de 17 años de experiencia en desarrollo con <b>Java</b> en múltiples proyectos 
-  de diversas áreas y 5 años trabajando como <b>Fullstack Developer</b> utilizando las últimas tecnologías 
-  de <b>JavaScript, React.js, Next.js, Node.js y más</b>.
+  Soy un <b>Ingeniero de Software</b> con más de <b>17 años de experiencia</b> en el desarrollo de 
+  soluciones tecnológicas, principalmente en <b>Java</b>, participando en proyectos de gran escala 
+  y de múltiples industrias.<br><br>
+  
+  Durante los últimos <b>5 años</b>, he enfocado mi carrera en el ecosistema <b>Fullstack</b>, 
+  trabajando con las tecnologías más demandadas de hoy en día como 
+  <b>JavaScript, React.js, Next.js, Node.js, Spring Boot</b> y bases de datos relacionales y 
+  no relacionales.<br><br>
+  
+  Me apasiona la <b>innovación</b>, la <b>arquitectura de software escalable</b> y la aplicación 
+  de <b>IA y automatización</b> en los procesos de desarrollo para crear productos que generen 
+  impacto real en los usuarios.<br><br>
+  
+  🌐 Además, te invito a visitar mi <b>sitio web profesional</b> 
+  👉 <a href="https://www.clancig.com.ar" target="_blank">www.clancig.com.ar</a>, 
+  donde encontrarás más información sobre mis servicios como <b>Desarrollador Fullstack</b> y cómo 
+  puedo ayudarte a llevar tus proyectos al siguiente nivel.<br><br>
+  
+  🚀 En mi perfil de <b>GitHub</b> encontrarás una combinación de <b>proyectos personales</b> y 
+  <b>proyectos profesionales desarrollados para clientes</b>, así como contribuciones open-source 
+  y experimentos con nuevas tecnologías. Te invito a explorarlos, darles una ⭐ y conectar conmigo 
+  para compartir ideas o colaborar en futuros desafíos.
 </h3>
 
-<span>Visita mi sitio web para más info: <a href="https://www.clancig.com.ar" target="_blank">www.clancig.com.ar</a></span>
+<div align="center">
+  <a href="https://github.com/DamianClancig?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/✨ Explora mis proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explora mis proyectos"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.clancig.com.ar" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visita mi sitio web-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visita mi sitio web"/>
+  </a>
+</div>
+
 
 ---
 
@@ -42,10 +71,9 @@
   <img src="https://res-s.cloudinary.com/prod/image/upload/d_unicorn:cloudinaryLogoDark.svg/w_23,h_23,c_fill,dpr_2.0/console/customer-logos/97aff34a83296a87a3df5787b75e7a53" height="45" title="Cloudinary"/>
 
   <!-- AI & Automatización -->
-  <img src="https://skillicons.dev/icons?i=openai" height="45" title="OpenAI"/>
-  <img src="https://skillicons.dev/icons?i=chatgpt" height="45" title="ChatGPT"/>
-  <img src="https://skillicons.dev/icons?i=deepseek" height="45" title="DeepSeek"/>
-  <img src="https://skillicons.dev/icons?i=n8n" height="45" title="n8n"/>
+  <img src="https://cdn.svgrepo.com/show/306500/openai.svg" height="45" title="OpenAI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg" height="45" title="DeepSeek"/>
+  <img src="https://n8n.io/guidelines/logo-white.svg" height="45" title="n8n"/>
 
   <!-- Herramientas Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
