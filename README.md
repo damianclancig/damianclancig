@@ -1,19 +1,14 @@
+<div align="center">
+  <img src="https://res.cloudinary.com/dqh1coa3c/image/upload/v1756991404/devProfile/logo-clancig-3_yzrv8l.webp" alt="Logo Clancig" height="120" />
+</div>
+
 <h2 align="left">Hola!👋 Mi nombre es Damián, soy desarrollador Fullstack.</h2>
-<h3>Soy profesional de desarrollador JAVA durante más de 17 años en múltiples proyectos de todas áreas y 5 años en desarrollo fullstack con las últimas tecnologías de javascript con React.JS y Next.JS.</h3>
+<h3>Soy profesional de desarrollador JAVA durante más de 17 años en múltiples proyectos de todas áreas y 5 años en desarrollo fullstack con las últimas tecnologías de javascript con React.JS[...]</h3>
 <span>Visite a mi sitio web para más info, www.clancig.com.ar</span>
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damianclancig&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damianclancig&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damianclancig&theme=react&area=true" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
@@ -84,7 +79,7 @@
   <a href="https://paypal.me/Clancig?country.x=AR&locale.x=es_XC" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="35" alt="paypal logo"  />
   </a>
-  <a href='https://cafecito.app/damianclancig' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_5_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_5.png' alt='Invitame un café en cafecito.app' /></a>
+  <a href='https://cafecito.app/damianclancig' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_5.png 1x, https://cdn.cafecito.app/imgs/buttons/button_5_2x.[...]' height='35' alt='Cafecito' /></a>
 </div>
 
 ###
