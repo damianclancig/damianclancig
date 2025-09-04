@@ -5,7 +5,7 @@
 <h2 align="left">Hola! 👋 Mi nombre es Damián, soy Desarrollador Fullstack.</h2>
 
 <h3>
-  Soy un <b>Ingeniero de Software</b> con más de <b>17 años de experiencia</b> en el desarrollo de 
+  Soy un <b>Profesional en Desarrollo de Software</b> con más de <b>17 años de experiencia</b> en el desarrollo de 
   soluciones tecnológicas, principalmente en <b>Java</b>, participando en proyectos de gran escala 
   y de múltiples industrias.<br><br>
   
